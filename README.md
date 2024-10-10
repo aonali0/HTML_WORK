@@ -1,4 +1,3 @@
 Assignment # 1
-=======
-# html_work
->>>>>>> 437762f81c8b9f4eac9ce1281e6b3c6da391a04a
+
+This is the first assignment of writing HTML code and then completing the process of pushing the code from local to github.
